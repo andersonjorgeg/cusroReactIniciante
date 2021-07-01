@@ -7,7 +7,7 @@ import { Home } from './templates/Home';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Home tem-uma-prop-aqui='valor dela' />
+    <Home />
   </React.StrictMode>,
   document.getElementById('root')
 );

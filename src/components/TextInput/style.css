@@ -3,3 +3,11 @@
     font-size: 30px;
     padding: 5px 10px;
 }
+
+@media (max-width: 360px) {
+    .text-input {
+        width: 84vw;
+        font-size: 10px;
+        padding: 5px 10px;
+    }
+}
