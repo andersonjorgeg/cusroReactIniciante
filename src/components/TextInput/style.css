@@ -4,10 +4,10 @@
     padding: 5px 10px;
 }
 
-@media (max-width: 360px) {
+@media (max-width: 414px) {
     .text-input {
         width: 84vw;
-        font-size: 10px;
+        font-size: 20px;
         padding: 5px 10px;
     }
 }
