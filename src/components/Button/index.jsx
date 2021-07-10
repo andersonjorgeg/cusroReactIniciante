@@ -7,9 +7,9 @@ export const Button = ({ text, onClick, disabled = false }) => (
   </button>
 );
 
-Button.defaultProps = {
+/* Button.defaultProps = {
   disabled: false,
-};
+}; */
 
 Button.propTypes = {
   text: P.string.isRequired,
